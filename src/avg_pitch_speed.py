@@ -16,7 +16,6 @@ def group_by_teams():
 
 
 class AveragePitchSpeed:
-    def __init__(self):
 
     @staticmethod
     def avg_pitch_speed(pitch_type):
@@ -99,6 +98,7 @@ class AveragePitchSpeed:
 class PitchSpeedDifference:
 # want to find the difference in speeds between fastball and changeup
 # as well as fastball and curveball + fastball and slider
+
 
 
 
