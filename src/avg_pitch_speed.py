@@ -98,6 +98,7 @@ class AveragePitchSpeed:
 class PitchSpeedDifference:
 # want to find the difference in speeds between fastball and changeup
 # as well as fastball and curveball + fastball and slider
+    def compare_fb_cb:
 
 
 
